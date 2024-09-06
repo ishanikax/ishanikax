@@ -30,7 +30,7 @@ I'm a curious and energetic second-year student diving into a Bachelor of Comput
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanikax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8" alt="Axolotl" style="width: 200px; height: 150; border: 1px solid #ddd; padding: 10px; box-sizing: border-box;">
+<img src="https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8" alt="Axolotl" style="width: 200px; height: 150px; border: 1px solid #ddd; padding: 10px; box-sizing: border-box;">
 
 
 <!--

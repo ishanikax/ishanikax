@@ -30,7 +30,6 @@ I'm a curious and energetic second-year student diving into a Bachelor of Comput
 ### ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ 📈 Statistics ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 ![Ishanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanikax&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=395&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph" />
-<img src="https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8" alt="Axolotl" style="width: 300px; height: auto; border: 1px solid #ddd; padding: 10px; box-sizing: border-box;">
 
 
 </div>

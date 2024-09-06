@@ -27,7 +27,7 @@ I'm a curious and energetic second-year student diving into a Bachelor of Comput
 
 ### 📈 Statistics
 ![Ishanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanikax&show_icons=true&theme=radical)
-![1873828_amenduhh_axolotl](https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8)
+<img src="https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8" alt="Axolotl" style="width: 200px; height: auto; border: 1px solid #ddd; padding: 10px; box-sizing: border-box;">
 
 
 <!--

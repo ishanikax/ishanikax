@@ -1,4 +1,4 @@
-## Welcome to Ishanika's Profile 👋 
+![1873828_amenduhh_axolotl](https://github.com/user-attachments/assets/b0b2294c-b406-49ff-8438-6406753508d2)## Welcome to Ishanika's Profile 👋 
 
 **`Creative Technologist (Developer/Designer/Innovator)`**
 
@@ -27,6 +27,8 @@ I'm a curious and energetic second-year student diving into a Bachelor of Comput
 
 ### 📈 Statistics
 ![Ishanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanikax&show_icons=true&theme=radical)
+![1873828_amenduhh_axolotl](https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8)
+
 
 <!--
 **ishanikax/ishanikax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

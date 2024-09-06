@@ -19,7 +19,7 @@ I'm a curious and energetic second-year student diving into a Bachelor of Comput
 <br />
 
 <details>
- <summary><h3>🛣️ Ishanika's Coding Journey</h3></summary>
+<h3>🛣️ Ishanika's Coding Journey</h3>
    I began my coding journey as an eager computer science student, excited to dive into the world of programming—code, Unix, Unity, and all the theory behind it. As I immersed myself, I quickly realized it wasn't just about making things work; it was about creating experiences. The logic of programming fascinated me, but what truly sparked my passion was how design played a role in shaping how people interacted with technology. This curiosity led me to UX/UI design, where I could blend creativity with problem-solving, and turn code into something both functional and beautiful. That’s when I knew I’d found my path. I not only focus on software development but also expand my skills in communication and creative technologies. During my time at university, I explored diverse subjects like synthetic realities and online interactive communication, further fueling my passion for the creative side of tech. These experiences helped me broaden my perspective and sharpen my design thinking. My goal is to combine all these skills—coding, creativity, and communication—to push forward and create engaging, meaningful digital experiences that make a real impact.
    
 <!--

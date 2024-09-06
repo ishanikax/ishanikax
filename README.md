@@ -28,7 +28,7 @@ I'm a curious and energetic second-year student diving into a Bachelor of Comput
 ### 📈 Statistics
 ![Ishanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanikax&show_icons=true&theme=radical)
 
-</br>
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ishanikax&theme=radical&border_radius=4.5) -->
 <!--
 **ishanikax/ishanikax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

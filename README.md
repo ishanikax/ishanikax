@@ -28,7 +28,7 @@ I'm a curious and energetic second-year student diving into a Bachelor of Comput
 ### 📈 Statistics
 ![Ishanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanikax&show_icons=true&theme=radical)
 <img src="https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8" alt="Axolotl" style="width: 200px; height: auto; border: 1px solid #ddd; padding: 10px; box-sizing: border-box;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanikax&layout=donut)](https://github.com/ishanikax/github-readme-stats)
+
 
 <!--
 **ishanikax/ishanikax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

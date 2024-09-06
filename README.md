@@ -1,4 +1,4 @@
-![1873828_amenduhh_axolotl](https://github.com/user-attachments/assets/b0b2294c-b406-49ff-8438-6406753508d2)## Welcome to Ishanika's Profile 👋 
+## Welcome to Ishanika's Profile 👋 
 
 **`Creative Technologist (Developer/Designer/Innovator)`**
 

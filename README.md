@@ -3,6 +3,8 @@
 **`Creative Technologist (Developer/Designer/Innovator)`**
 
 I'm a curious and energetic second-year student diving into a Bachelor of Computer and Information Sciences, with a major in Software Development and a minor in Digital Communication. Fueled by my passion for coding and creativity, I'm all about using my skills to solve real-world problems and make a difference. I'm constantly learning, evolving, and ready to take on new challenges! When I'm not immersed in code, you’ll find me exploring the worlds of art, design, gaming, and anything that sparks my imagination!
+<img src="https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8" alt="Axolotl" style="width: 200px; height: auto; border: 1px solid #ddd; padding: 10px; box-sizing: border-box;">
+
 
 ### Languages and Tools 🧰
 
@@ -32,7 +34,6 @@ I'm a curious and energetic second-year student diving into a Bachelor of Comput
 
 </div>
 
-<img src="https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8" alt="Axolotl" style="width: 200px; height: auto; border: 1px solid #ddd; padding: 10px; box-sizing: border-box;">
 
 
 

@@ -1,4 +1,4 @@
-## Welcome to Ishanika's Profile 👋 
+## Welcome to Ishanika's Profile 👋🏾
 
 <img src="https://i.pinimg.com/564x/a9/49/02/a94902f838f2431669a9944786438347.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=BDB5D5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+Ishanika%2C+a+tech+girl+and+creative+enthusiast+%E2%9C%A9" width="70%" />

@@ -44,9 +44,9 @@ I'm a curious and energetic individual fueled by my passion for coding and creat
 ### ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ 📈 Statistics ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 <div style="display: flex; align-items: center;">
     <a href="https://github.com/ishanikax/github-readme-stats#responsive-card-theme#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=ishanikax&show_icons=true&theme=github_dark&hide_border=true&card_width=400#gh-dark-mode-only" height="195" alt="Ishanika's GitHub stats-Dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ishanikax&show_icons=true&theme=github_dark&hide_border=true&card_width=350#gh-dark-mode-only" height="195" alt="Ishanika's GitHub stats-Dark" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=5&theme=yeblu&hide_border=false" height="195" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false" height="195" alt="languages graph" />
   
 </div>
 

@@ -1,10 +1,23 @@
 ## Welcome to Ishanika's Profile 👋 
 
+<img src="https://i.pinimg.com/564x/a9/49/02/a94902f838f2431669a9944786438347.jpg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=BDB5D5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+Ishanika%2C+a+tech+girl+and+creative+enthusiast+%E2%9C%A9" width="70%" />
+<br><br>
+
+<pre>
+                  🎮 Gaming • Anime • Programming • Art • Design • Reading
+                      📚 Software Development • Digital Communication
+</pre>
+
 **`Creative Technologist (Developer/Designer/Innovator)`**
 
-I'm a curious and energetic second-year student diving into a Bachelor of Computer and Information Sciences, with a major in Software Development and a minor in Digital Communication. Fueled by my passion for coding and creativity, I'm all about using my skills to solve real-world problems and make a difference. I'm constantly learning, evolving, and ready to take on new challenges! When I'm not immersed in code, you’ll find me exploring the worlds of art, design, gaming, and anything that sparks my imagination!
 
 
+I'm a curious and energetic individual fueled by my passion for coding and creativity! I'm all about using my skills to solve real-world problems and make a difference. I'm constantly learning, evolving, and ready to take on new challenges! When I'm not immersed in code, you’ll find me exploring the worlds of art, design, gaming, and anything that sparks my imagination!
+
+<p align="center">
+    <img src="https://i.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.gif" height="60" />
+</p>
 
 ### Languages and Tools 🧰
 
@@ -30,9 +43,7 @@ I'm a curious and energetic second-year student diving into a Bachelor of Comput
 ### ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ 📈 Statistics ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph" />
-<img src="https://github.com/user-attachments/assets/93951ba5-b183-40fa-ab8f-17a5676685f8" alt="Axolotl" style="width: 180px; height: auto; border: 1px solid #ddd; padding: 10px; box-sizing: border-box;">
 </div>
-
 
 
 

@@ -16,7 +16,7 @@
 
 
 
-I'm a curious and energetic individual fueled by my passion for coding and creativity! I'm constantly learning, evolving, and ready to take on new challenges! When I'm not immersed in code, you’ll find me exploring the worlds of art, design, gaming, and anything that sparks my imagination!
+I'm a curious and energetic individual fueled by my passion for coding and creativity! I'm constantly learning, evolving, and ready to take on new challenges. When I'm not immersed in code, you’ll find me exploring the worlds of art, design, gaming, and anything that sparks my imagination!
 
 <p align="center">
     <img src="https://i.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.gif" height="60" />

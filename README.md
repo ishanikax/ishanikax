@@ -9,8 +9,8 @@
 
 
 <pre>
-                  🎮 Gaming • Anime • Programming • Art • Design • Reading • Sports
-                      📚 Software Development • Digital Communication
+                  🎮 Gaming • Programming • Art • Design • Reading 📚
+                      Software Development • Digital Communication
 </pre>
 
 

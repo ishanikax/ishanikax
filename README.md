@@ -54,7 +54,7 @@ I'm a curious and energetic individual fueled by my passion for coding and creat
 </div>
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center"> *✧･ﾟ: (っ◔◡◔)っ  𝘊𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘪𝘰𝘯 𝘎𝘳𝘢𝘱𝘩  *✧･ﾟ: :</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanikax&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>

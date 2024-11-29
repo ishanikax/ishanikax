@@ -59,6 +59,8 @@ I'm a curious and energetic individual fueled by my passion for coding and creat
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanikax&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ishanikax)
+
 
 <br>
 <details>

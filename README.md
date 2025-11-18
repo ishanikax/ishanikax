@@ -10,7 +10,7 @@
 
 
 <pre>
-                  🎮 Gaming • Programming • Art • Design • Reading 📚
+                  🎮 Gaming • Programming • Art • Design • Reading • TCG's 📚
                       Software Development • Digital Communication
 </pre>
 

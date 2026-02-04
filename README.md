@@ -19,7 +19,7 @@
 
 I'm a curious and energetic individual fueled by my passion for coding and creativity! I'm constantly learning, evolving, and ready to take on new challenges. When I'm not immersed in code, you’ll find me exploring the worlds of art, design, gaming, and anything that sparks my imagination!
 
-<b> Current Activities: </b><i>I am currently designing and programming my personal portfolio website! For this project I am combining my skills in web development and digital design to showcase my design projects. Stay tuned for the completed site :)</i>
+<b> Current Activities: </b><i>I’m currently developing a small Unity puzzle game called Desync, set aboard a damaged spaceship where systems are failing and nothing is quite as it seems. I am also currently designing and programming my personal portfolio website! For this project I am combining my skills in web development and digital design to showcase my design projects. Stay tuned for the completed site :)</i>
 <p align="center">
     <img src="https://i.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.gif" height="60" />
 </p>
@@ -57,7 +57,7 @@ I'm a curious and energetic individual fueled by my passion for coding and creat
 
 <br>
 <details>
- <summary><h3>🛣️ Ishanika's Coding Journey</h3></summary>
+ <summary><h3>My Personal Coding Journey</h3></summary>
    I began my coding journey as an eager computer science student, excited to dive into the world of programming, Unity, 3d design and all the theory behind it. As I immersed myself, I quickly realized it wasn't just about making things work; it was about creating experiences. The logic of programming fascinated me, but what truly sparked my passion was how design played a role in shaping how people interacted with technology. This curiosity led me to UX/UI design, where I could blend creativity with problem-solving, and turn code into something both functional and beautiful. That’s when I knew I’d found my path. I not only focus on software development but also expand my skills in communication and creative technologies. <br> <br> During my time at university, I explored diverse subjects like synthetic realities and online interactive communication, further fueling my passion for the creative side of tech. These experiences helped me broaden my perspective and sharpen my design thinking. My goal is to combine all these skills coding, creativity, and communication to push forward and create engaging, meaningful digital experiences that produce a genuine connection.
 </details></break>
 

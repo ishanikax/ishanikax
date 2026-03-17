@@ -36,8 +36,6 @@ I'm a curious and energetic individual fueled by my passion for coding and creat
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/c-programming-language-icon-symbol-logo-vector-_607.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" />
-<img align="left" alt="Xd" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/adobe-xd-icon-2048x2048-n4c7t4w4.png" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.sanity.io/images/599r6htc/regionalized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec" />
@@ -49,7 +47,8 @@ I'm a curious and energetic individual fueled by my passion for coding and creat
 <!--Contribution Graph-->
 
 
-
+<br>
+<br>
 <h2 align="center"> *✧･ﾟ: 𝘊𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘪𝘰𝘯 𝘎𝘳𝘢𝘱𝘩  *✧･ﾟ: :</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanikax&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">

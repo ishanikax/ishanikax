@@ -21,7 +21,7 @@ I'm a curious and energetic individual fueled by my passion for coding and creat
 
 <b> Current Activities: </b><i>I’m currently developing a small Unity puzzle game called Desync, set aboard a damaged spaceship where systems are failing and nothing is quite as it seems. I am also currently designing and programming my personal portfolio website! For this project I am combining my skills in web development and digital design to showcase my design projects. Stay tuned for the completed site :)</i>
 
-Currently playing: The Witcher 3: Wild Hunt
+<b>Currently playing:</b> The Witcher 3: Wild Hunt
 <p align="center">
     <img src="https://i.pinimg.com/originals/0b/a2/03/0ba20349db892b58c9589bc74c5b4419.gif" height="60" />
 </p>
